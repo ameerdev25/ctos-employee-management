@@ -16,11 +16,11 @@ A simple project to demonstrate basic internalization (i18n) when switching lang
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ameerdev25/ctos-employee-management.git
+   git clone https://github.com/ameerdev25/next-language-switch.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ctos-employee-management
+   cd next-language-switch
    ```
 3. Install dependencies:
    ```bash
